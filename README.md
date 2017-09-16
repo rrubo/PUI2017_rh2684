@@ -20,7 +20,7 @@ Furthermoe, I created an <b>alias</b> for <b>pui2017</b> to be equal to the envi
 	echo 'alias pui2017='cd $PUI2017'' >> ~/.bashrc
 	
 See the screenshot of the .bashrc file below:<br />
-![.bashrc screenshot of Ruben Hambardzumyan](C:\Users\ruham\Googledrive\PUI2017\HW1bashrc.png".bashrc screenshot")<br />
+![.bashrc screenshot of Ruben Hambardzumyan](C:\Users\ruham\Googledrive\PUI2017\HW1\bashrc.png".bashrc screenshot")<br />
 
 
 
