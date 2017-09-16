@@ -26,13 +26,14 @@
 <p>Below is the screenshot of the bash window with verifying commands:</p>
 <a href="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/pui2017.png" target="_blank"><img src="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/pui2017.png" alt="bash interface screenshot - Ruben Hambardzumyan" style="max-width:100%;"></a><br />
 
-<p>Then, I proceeded to creating a repository on GitHub called <b>PUI2017_rh2684</b> and copy pasted the Git code to the bash to syncronized it with the local PUI2017 folder. By adding the screenshots to the local folder HW1, I typed:</p><br />
+<p>Then, I proceeded to creating a repository on GitHub called <b>PUI2017_rh2684</b> and copy pasted the Git code to the bash to syncronize it with the local PUI2017 folder. By adding the screenshots to the local folder HW1, I typed:</p><br />
 
 	git add *
 	git commit *
 	git push
 
-<p>This done, I proceeded to editing this markdown file, which you now reed (thanks for that, by the way!). I edited the file several times, thus, there are several commits of this file.</p>
+<p>This done, I proceeded to editing this markdown file, which you now reed (thanks for that, by the way!). I edited the file several times, thus, there are several commits of this file.<br />
+Now, the environment is ready!</p>
 
 
 
