@@ -8,19 +8,19 @@ Since I am using Windows OS, the whole process was different for me. First, I ha
 
 After I created the PUI2017 folder, I set up the environmental variable by typing:<br />
 
-	PUI2017=/c/Users/ruham/Googledrive/PUI2017<br />
+	PUI2017=/c/Users/ruham/Googledrive/PUI2017
 	
 After which, I put the variable into the .bashrc file by typing:<br />
 
-	echo 'PUI2017='/c/Users/ruham/Googledrive/PUI2017'' >> ~/.bashrc<br />
-	
+	echo 'PUI2017='/c/Users/ruham/Googledrive/PUI2017'' >> ~/.bashrc
+
 Furthermoe, I created an <b>alias</b> for <b>pui2017</b> to be equal to the environmental variable created earlier. I did that by typing:<br />
 
-	alias pui2017='cd $PUI2017'<br />
-	echo 'alias pui2017='cd $PUI2017'' >> ~/.bashrc<br />
+	alias pui2017='cd $PUI2017'
+	echo 'alias pui2017='cd $PUI2017'' >> ~/.bashrc
 	
 See the screenshot of the .bashrc file below:<br />
-![.bashrc screenshot of Ruben Hambardzumyan](C:\Users\ruham\Googledrive\CUSP\PUI\HW1\bashrc.png ".bashrc screenshot")<br />
+![.bashrc screenshot of Ruben Hambardzumyan](~/Googledrive/PUI2017/HW1/bashrc.png".bashrc screenshot")<br />
 
 
 
