@@ -20,7 +20,7 @@
 	echo 'alias pui2017='cd $PUI2017'' >> ~/.bashrc
 	
 <p>See the screenshot of the .bashrc file below:</p><br />
-<a href="/ruham/Googledrive/PUI2017/HW1/bashrc.png" target="_blank"><img src="/ruham/Googledrive/PUI2017/HW1/bashrc.png" alt="bashrc screen of Ruben Hambardzumyan" style="max-width:100%;"></a><br />
+<a href="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/bashrc.png" target="_blank"><img src="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/bashrc.png" alt="bashrc screen of Ruben Hambardzumyan" style="max-width:100%;"></a><br />
 
 
 
