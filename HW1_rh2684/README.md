@@ -21,10 +21,10 @@
 	source .bashrc
 	
 <p>See the screenshot of the .bashrc file below:</p>
-<a href="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/bashrc.png" target="_blank"><img src="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/bashrc.png" alt="bashrc file screenshot - Ruben Hambardzumyan" style="max-width:100%;"></a><br />
+<a href="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1_rh2684/HW1/bashrc.png" target="_blank"><img src="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1_rh2684/HW1/bashrc.png" alt="bashrc file screenshot - Ruben Hambardzumyan" style="max-width:100%;"></a><br />
 
 <p>Below is the screenshot of the bash window with verifying commands:</p>
-<a href="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/pui2017.png" target="_blank"><img src="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1/pui2017.png" alt="bash interface screenshot - Ruben Hambardzumyan" style="max-width:100%;"></a><br />
+<a href="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1_rh2684/HW1/pui2017.png" target="_blank"><img src="https://github.com/rrubo/PUI2017_rh2684/blob/master/HW1_rh2684/HW1/pui2017.png" alt="bash interface screenshot - Ruben Hambardzumyan" style="max-width:100%;"></a><br />
 
 <p>Then, I proceeded to creating a repository on GitHub called <b>PUI2017_rh2684</b> and copy pasted the Git code to the bash to syncronize it with the local PUI2017 folder. By adding the screenshots to the local folder HW1, I typed:</p><br />
 
