@@ -2,7 +2,7 @@
 
 <p>Assignments 1 and 2 are in this repository.
 
-Assignment 3 in HW2_assignment3_rh2684.ipynb Jupiter Notebook. This assignment is done fetching the NYC Open Data datasets, since the DFDATA was not working. The environmental variable $DFDATA is all set up, though, and the script checks whether or not it exists.</ br>
+Assignment 3 in HW2_assignment3_rh2684.ipynb Jupiter Notebook. This assignment is done fetching the NYC Open Data datasets, since the DFDATA was not working. The environmental variable $DFDATA is all set up, though, and the script checks whether or not it exists.
 
 The datasets are:
 
