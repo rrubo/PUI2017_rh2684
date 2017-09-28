@@ -6,7 +6,7 @@ Experimental setup: you have a test and a control sample.
 
 ## Quantify the danger of smoking for pregnant women. (Olds et al., 1994, p. 223)
 
-#### <b>Null hypothesis</b>: The children of smokers aged 1, 2, 3, and 4 years have the same or higher IQ than the children of non-smokers aged 1, 2, 3, and 4 years.
+#### <b>Null hypothesis</b>: The children of smokers aged 1, 2, 3, and 4 years have the same IQ than the children of non-smokers aged 1, 2, 3, and 4 years.
 
 Experimemtal setup: measure IQ of children of smokers and non-smokers at age 1, 2, 3, and 4 years.
 
