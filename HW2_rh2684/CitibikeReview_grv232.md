@@ -7,8 +7,10 @@ However the null hypthesis talks about time and not distance as if the speed of 
 Data Variables: As I said before, distance is to be considered instead of time. The columns that help calculate distance (although an euclidean one, google maps api can be used for an acual one) are start station lat/long and end station lat/long. On the positive side, the time trip duration data was rendered correctly.
 
 Statistical hypthesis test: since the values of distance are parametric and unpaired a simple T-test would do, since all data is available and both the mean and standard deviation's population are known we could use a Z-test.
+# FBB tests are parametric or not. data follow distributions, or dont (i would not say tht thos one does by the way). data (variables) are not parametric
 
 Variations on the question: The analysis addressed was really: Are men more likely than women to spend more than 30 min on a bike. Which I guess could be motivated by the question: Do men spend more time biking than women do? I think the original idea is valid one and could be used by Citibike to address certain gender gap between users: Why is the citibike user more likely to be a man than a women? Why do women
 travel shorter distances? Why do men bike faster than women do? Is it related to physical aspects of the bike like weight and size? Is it because women are more cautious than men?
 
 
+# FBB why uploaded to HW2? it was part of HW3 and you reviewed it in HW4. i almost missed it. anyhow
