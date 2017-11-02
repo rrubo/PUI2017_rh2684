@@ -3,7 +3,7 @@
 
 The review file has been submitted to the repository of Nick Jones and pull requested.
 
-# Note! It has been submitted to his HW3 homework directory! In my HW4 directory there is a copy of it.
+# Note! It has been submitted to his HW3 homework directory! It is now in his PUI2017 directory (don't know why he put it there). In my HW4 directory there is a copy of it.
 
 # Homework 4, Assignment 2
 
