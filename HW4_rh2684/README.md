@@ -3,6 +3,8 @@
 
 The review file has been submitted to the repository of Nick Jones and pull requested.
 
+# Note! It has been submitted to his HW3 homework directory! In my HW4 directory there is a copy of it.
+
 # Homework 4, Assignment 2
 
 I preferred to do this assignment individually. Below is the table.
