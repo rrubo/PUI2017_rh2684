@@ -1,6 +1,6 @@
 # Plot review
 
-__Plot:__ Prediction of NYC Water Consumption 
+__Plot:__ Prediction of NYC Water Consumption  
 __Author:__ Ruben Hambardzumyan (rh2684)  
 __Reviewer__ Michael Sampson (mms911)
 
