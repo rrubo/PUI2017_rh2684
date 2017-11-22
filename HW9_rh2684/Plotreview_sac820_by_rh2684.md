@@ -35,7 +35,7 @@ It would be great to have a bigger font size for the X-ticks and Y-ticks, for ex
 From the esthetic point of view:
 <ul>
 <li>
-Nice visualisation, color gradient helps to understand the number of accident. Would have been nice to have horizontal borders separating the categories, to help easily detect the needed cell. The green color is contrasting great with the white background.
+Nice visualisation, color gradient helps to understand the number of accident. Would have been nice to have horizontal borders separating the categories, to help easily detect the needed cell. The green color is in nice contrast with the white background.
 </li>
 </ul>
 </p>
