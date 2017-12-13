@@ -58,3 +58,11 @@ The visualisation represents the data quite good. The only concern that I have i
 </p>
 
 ![Hong Kong Hourly Air Quality Health Index (AQHI) at different Air Quality Monitoring stations for October 2017](img.png)
+
+# FBB 
+the review is very good. 
+
+I asked to include the plot in the review. your plot does not render because the file is not in your repo.
+I have to take off 0.5 points for that, for consistency with what done for other students, but your review is very thourough and thoughtful
+
+9.5/10
